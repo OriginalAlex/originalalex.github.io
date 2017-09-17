@@ -122,7 +122,7 @@ hr {
 }
 
 #about {
-  background-image: url("https://wallpaperscraft.com/image/seattle_city_night_buildings_beautiful_scenery_691_2048x1152.jpg");
+  background-image: url("http://www.planwallpaper.com/static/cache/5b/54/5b54b0bb2a5190a6523844e627d0bf4b.jpg");
   background-size: cover;
   height: 650px;
   vertical-align: top;
@@ -132,7 +132,7 @@ hr {
 
 .title {
   font-family: Roboto;
-  color: 	#696969;
+  color: #00868B	;
   font-size: 40px;
   font-weight: bolder;
 }
@@ -140,7 +140,8 @@ hr {
 .aboutme {
   font-size: 20px;
   font-weight: bolder;
-  color: #8b008b;
+  color: #70DBDB;
+    font-family: Indie Flower;
 }
 
 ul {
@@ -188,6 +189,7 @@ li:before {
   border-radius: 15px;
   margin-right: 1%;
   margin-bottom: 1%;
+    font-family: Titillium Web;
 }
 
 .element img {
@@ -198,14 +200,13 @@ li:before {
 }
 
 .element h3 {
-  font-family: Abril Fatface;
   color: White;
   font-size: 20px;
-  margin-bottom: -10px;
+  margin-top: 10px;
+    margin-bottom: -15px;
 }
 
 .element p {
-  font-family: Abril Fatface;
   color: white;
   font-size: 0.8vw;
 }
@@ -223,8 +224,4 @@ li:before {
 #contact h1 {
   font-family: Eczar;
   margin-bottom: 0em;
-}
-
-#contact h1 {
-  margin-top: 0em;
 }
