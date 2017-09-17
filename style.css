@@ -212,16 +212,17 @@ li:before {
 }
 
 #contact {
-  float:left;
-  clear:none;
   width: 100%;
-  height: 100px;
+  height: 100%;
   background-color: black;
   text-align: center;
   color: white;
+float:left;
+clear:none;  
+    color: aqua;
 }
 
 #contact h1 {
   font-family: Eczar;
-  margin-bottom: 0em;
+  margin-top: 0px;
 }
